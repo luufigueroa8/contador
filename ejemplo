@@ -1,0 +1,9 @@
+// que es una variable?
+// es un lugar en la memoria temporal que nos permite almacenar un valor
+// que variable hay?
+var nombre="Lucia28"// tipo de dato alfanumerico
+var esVerano= true || false // booleano
+var numero = 22 //numerico
+numero + 1 
+var listadonumeros = ["uno", 2] // listas
+var persona = {nombre:"Lucia", edad:"22" }
